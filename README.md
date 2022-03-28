@@ -13,7 +13,12 @@ This game was produced by me as final project of the Object Oriented Programming
 The sprites and sounds used in this game doesn't belong to me. 
 
 Some Copyrights:
+
 Credits : Clement Panchout http://www.clementpanchout.com/
-https://craftpix.net/
+
+
 Commissioned by Opengameart
+
 https://opengameart.org 
+
+https://craftpix.net/
