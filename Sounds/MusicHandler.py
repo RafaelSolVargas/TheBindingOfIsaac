@@ -50,6 +50,8 @@ class MusicHandler(Singleton):
     def play_sound(self, sound_path: str) -> None:
         if sound_path == '':
             return
+        if not self.__opcoes.tocar_musica:
+            return
         try:
             sound = mixer.Sound(sound_path)
             sound.set_volume(0.3)
